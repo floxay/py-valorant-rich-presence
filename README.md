@@ -1,3 +1,6 @@
+# This repository is now archived, the releases are now outdated and I'm not planning on updating this application.
+## Please use https://github.com/colinhartigan/valorant-rpc
+
 # ValorantRichPresence
 VALORANT Rich Presence; a way to show what you are doing in VALORANT on Discord
 
